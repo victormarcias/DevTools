@@ -2,6 +2,8 @@
 - 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 - 🧠 &nbsp; [There's An AI For That](https://theresanaiforthat.com/): Directory of AI tools by use case.
 - 🧠 &nbsp; [Hugging Face](https://huggingface.co/): Community hub for free AI models, datasets and demos.
+- 🧠 &nbsp; [CLI-Anything Hub](https://clianything.cc/): Registry of agent-native CLIs generated from any software.
+- 🧠 &nbsp; [CLI-Anything (GitHub)](https://github.com/HKUDS/CLI-Anything): Generates agent-native CLIs from any codebase.
 
 ## Android
 - 🤖 &nbsp; [LeakCanary](https://square.github.io/leakcanary/): Memory leak detection for Android.
