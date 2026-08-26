@@ -2,6 +2,8 @@
 - 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 - 🧠 &nbsp; [There's An AI For That](https://theresanaiforthat.com/): Directory of AI tools by use case.
 - 🧠 &nbsp; [Hugging Face](https://huggingface.co/): Community hub for free AI models, datasets and demos.
+- 🧠 &nbsp; [OpenAI Tokenizer](https://platform.openai.com/tokenizer): Visualize how text is split into tokens and count them.
+- 🧠 &nbsp; [Claude Token Counter](https://tools.simonwillison.net/claude-token-counter): Counts tokens for Claude using Anthropic's official API.
 
 ## Vibe Coding
 - ✨ &nbsp; [CLI-Anything Hub](https://clianything.cc/): Registry of agent-native CLIs generated from any software.
