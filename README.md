@@ -2,8 +2,15 @@
 - 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 - 🧠 &nbsp; [There's An AI For That](https://theresanaiforthat.com/): Directory of AI tools by use case.
 - 🧠 &nbsp; [Hugging Face](https://huggingface.co/): Community hub for free AI models, datasets and demos.
-- 🧠 &nbsp; [CLI-Anything Hub](https://clianything.cc/): Registry of agent-native CLIs generated from any software.
-- 🧠 &nbsp; [CLI-Anything (GitHub)](https://github.com/HKUDS/CLI-Anything): Generates agent-native CLIs from any codebase.
+
+## Vibe Coding
+- ✨ &nbsp; [CLI-Anything Hub](https://clianything.cc/): Registry of agent-native CLIs generated from any software.
+- ✨ &nbsp; [CLI-Anything (GitHub)](https://github.com/HKUDS/CLI-Anything): Generates agent-native CLIs from any codebase.
+- ✨ &nbsp; [Skills.sh](https://skills.sh/): Package registry for AI agent skills, npm-style.
+- ✨ &nbsp; [OpenCode](https://github.com/anomalyco/opencode): Open-source AI coding agent built for the terminal, supports 75+ LLMs.
+- ✨ &nbsp; [OpenSpec](https://github.com/Fission-AI/OpenSpec): Spec-driven development (SDD) framework for AI coding assistants.
+- ✨ &nbsp; [Claude Superpowers](https://claude.com/plugins/superpowers): Skills plugin for structured TDD, debugging and planning workflows in Claude Code.
+- ✨ &nbsp; [GSD (Get Shit Done)](https://www.lets-gsd.com/): Context engineering and spec-driven workflow system for AI coding agents.
 
 ## Android
 - 🤖 &nbsp; [LeakCanary](https://square.github.io/leakcanary/): Memory leak detection for Android.
